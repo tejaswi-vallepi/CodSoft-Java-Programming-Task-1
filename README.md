@@ -1,6 +1,14 @@
 # CodSoft-Java-Programming-Task-1
 # Number Guessing Game
+Name:Vallepi.Tejaswi
 
+Company:CodSoft
+
+ID:BY26RY205358
+
+Duration:10th june 2026 to 10th july 2026
+
+Domain:Java Programming
 ## Overview
 
 The Number Guessing Game is a Python-based console application developed as part of the CodSoft Internship Program. The game generates a random number between 1 and 100, and the player must guess the correct number within a limited number of attempts. The program provides hints after each guess and maintains a scoring system based on the player's performance.
@@ -65,3 +73,12 @@ Through this project, I learned:
 ## Conclusion
 
 This project demonstrates the fundamentals of Python programming, including control structures, functions, exception handling, and user interaction. It provides an engaging way to practice logical thinking while showcasing core programming concepts.
+## Output:
+
+
+https://github.com/user-attachments/assets/65487d23-4daa-4b26-9289-9e70c2c65060
+
+
+
+
+
